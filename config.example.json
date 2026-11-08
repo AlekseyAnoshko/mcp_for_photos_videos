@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "workspace": "/home/CHANGE_ME/CreativeProjects",
+  "gimp": {"command": ["/usr/bin/flatpak", "run", "--user", "org.gimp.GIMP"]},
+  "blender": {"command": ["/usr/bin/blender"]}
+}
